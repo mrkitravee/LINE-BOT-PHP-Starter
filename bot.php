@@ -1,7 +1,5 @@
 <?php
-$access_token = ' 	
-Long term token which is displayed permanently.
-aIQQs8GwpfDk16ZCvJiYSg9AY9GNnNGU0pGhvspIT+0rhHHBmm0/Gn1D3UG5G0zcQfbxotv2GxvODTr7EHcRpOWtXIsiti2FYY9ibGkrOqTDd3BtcFnEGCZjJB+Yy+hjV0pqMCc54tlTCUXVOuuypwdB04t89/1O/w1cDnyilFU=';
+$access_token = 'aIQQs8GwpfDk16ZCvJiYSg9AY9GNnNGU0pGhvspIT+0rhHHBmm0/Gn1D3UG5G0zcQfbxotv2GxvODTr7EHcRpOWtXIsiti2FYY9ibGkrOqTDd3BtcFnEGCZjJB+Yy+hjV0pqMCc54tlTCUXVOuuypwdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
 $content = file_get_contents('php://input');
